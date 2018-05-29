@@ -1,0 +1,8 @@
+{
+  "name": "scan_gera_rdz",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
